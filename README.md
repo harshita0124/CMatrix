@@ -21,31 +21,6 @@ The application supports the following matrix operations:
 - Streamlit
 - NumPy
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/harshitaa-15/CMatrix-App.git
-```
-
-Move into the project directory:
-
-```bash
-cd CMatrix-App
-```
-
-Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application:
-
-```bash
-streamlit run app.py
-```
 
 ## Project Structure
 
